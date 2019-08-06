@@ -1,0 +1,23 @@
+1
+"."
+1
+  DIR "dist" "dist" HIDDEN
+  2
+    DIR "lib" "dist\lib" HIDDEN
+    15
+      FILE "junit-4.11.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\junit-4.11__11.jar" HIDDEN
+      FILE "hamcrest-core-1.3.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\hamcrest-core-1.3__5.jar" HIDDEN
+      FILE "jfreechart-1.0.19-experimental.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\jfreechart-1.0.19-experimental__7.jar" HIDDEN
+      FILE "jcommon-1.0.23.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\jcommon-1.0.23__6.jar" HIDDEN
+      FILE "jfreechart-1.0.19.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\jfreechart-1.0.19__9.jar" HIDDEN
+      FILE "jcalendar-1.4.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\jcalendar-1.4__3.jar" HIDDEN
+      FILE "mysql-connector-java-5.1.23-bin.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\mysql-connector-java-5.1.23-bin__1.jar" HIDDEN
+      FILE "swtgraphics2d.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\swtgraphics2d__15.jar" HIDDEN
+      FILE "orsoncharts-1.4-eval-nofx.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\orsoncharts-1.4-eval-nofx__12.jar" HIDDEN
+      FILE "servlet.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\servlet__14.jar" HIDDEN
+      FILE "orsonpdf-1.6-eval.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\orsonpdf-1.6-eval__13.jar" HIDDEN
+      FILE "jfreechart-1.0.19-swt.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\jfreechart-1.0.19-swt__8.jar" HIDDEN
+      FILE "JTattoo-1.6.11.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\JTattoo-1.6.11__4.jar" HIDDEN
+      FILE "rs2xml.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\rs2xml__2.jar" HIDDEN
+      FILE "jfreesvg-2.0.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\jfreesvg-2.0__10.jar" HIDDEN
+    FILE "SchoolManagement.jar" "C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\tmpres\SchoolManagement__0.jar" HIDDEN

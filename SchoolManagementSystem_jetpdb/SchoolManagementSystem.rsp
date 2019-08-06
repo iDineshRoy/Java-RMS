@@ -1,0 +1,46 @@
+
+-x64
+-PIC
+-jetcomponent=11.00
+-jetedition=Evaluation
+-vcode=8040
+-sys=W
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\dist\SchoolManagement.jar;*{exe.dir}\dist\lib\mysql-connector-java-5.1.23-bin.jar;*{exe.dir}\dist\lib\rs2xml.jar;*{exe.dir}\dist\lib\jcalendar-1.4.jar;*{exe.dir}\dist\lib\JTattoo-1.6.11.jar;*{exe.dir}\dist\lib\hamcrest-core-1.3.jar;*{exe.dir}\dist\lib\jcommon-1.0.23.jar;*{exe.dir}\dist\lib\jfreechart-1.0.19-experimental.jar;*{exe.dir}\dist\lib\jfreechart-1.0.19-swt.jar;*{exe.dir}\dist\lib\jfreechart-1.0.19.jar;*{exe.dir}\dist\lib\jfreesvg-2.0.jar;*{exe.dir}\dist\lib\junit-4.11.jar;*{exe.dir}\dist\lib\orsoncharts-1.4-eval-nofx.jar;*{exe.dir}\dist\lib\orsonpdf-1.6-eval.jar;*{exe.dir}\dist\lib\servlet.jar;*{exe.dir}\dist\lib\swtgraphics2d.jar
+-config=JETProfile:8040
+-config=JETProfileName:1.8.0_40
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/Dinesh/Dropbox/SchoolManagement/SchoolManagement/SchoolManagementSystem_jetpdb/SchoolManagementSystem.efs
+-config=MainClass:schoolmanagement/MainFrame
+-config=VersionInfo:jet-1100-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_40; JET update level: 0; CPU architecture: amd64
+-name=SchoolManagementSystem.exe
+C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+
+-config=HaveSplash:1
+-config=SplashCloseOnTitle:
+-config=SplashCloseOnAWTWindow:1
+-LinkFileAsRData=LINK_SplashPicture:../../../Downloads/Shree Rising Nepal Sec. Boarding School Logo.jpg
+
+
+C:\jet11.0-eval-amd64\lib\x86\startup-exe-splash.zip
+
+-GenExceptionInfo=JR_SystemExceptionHandler
+-config=PackagingOptions:component_microversions=BC-0
+-ReadLinkInfo=C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\reorder.li
+C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem_jetpdb\obj.zip
+-Config=RTComponent:XKRN11008040.dll
+C:\jet11.0-eval-amd64\lib\x86\startup-rtlink.zip
+C:\jet11.0-eval-amd64\lib\x86\import32.lib
+..\..\..\Downloads\Logo.ico.ico
+C:\jet11.0-eval-amd64\lib\x86\app.res
+-StrictLinkToDLL
+
+

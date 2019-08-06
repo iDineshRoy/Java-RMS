@@ -1,0 +1,123 @@
+%%Excelsior JET v11.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-javacommandline:=java -jar C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\dist\SchoolManagement.jar
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-jpiiproject=C:\Users\Dinesh\Dropbox\SchoolManagement\SchoolManagement\SchoolManagementSystem.jpn
+-main=schoolmanagement/MainFrame
+-outputdir=.
+-outputname=SchoolManagementSystem
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=../../../Downloads/Shree Rising Nepal Sec. Boarding School Logo.jpg
+-stacklimit=900000
+-startupprofile=./SchoolManagementSystem.startup
+-versioninfocompanyname=VPIT
+-versioninfofiledescription=SchoolManagementSystem
+-versioninfolegalcopyright=Copyright \x00a9 2016 VPIT
+-versioninfoproductname=SchoolManagementSystem
+-versioninfoproductversion=1.0.0.0
+
+
+
+
+!classpathentry ./dist/SchoolManagement.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./dist/lib/mysql-connector-java-5.1.23-bin.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/rs2xml.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jcalendar-1.4.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/JTattoo-1.6.11.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/hamcrest-core-1.3.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jcommon-1.0.23.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jfreechart-1.0.19-experimental.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jfreechart-1.0.19-swt.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jfreechart-1.0.19.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jfreesvg-2.0.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/junit-4.11.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/orsoncharts-1.4-eval-nofx.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/orsonpdf-1.6-eval.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/servlet.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/swtgraphics2d.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ../../../Downloads/Logo.ico.ico
+
