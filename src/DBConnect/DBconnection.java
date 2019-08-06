@@ -38,6 +38,7 @@ public class DBconnection {
         catch(Exception e)
         {
             JOptionPane.showMessageDialog(null,e);
+            System.exit(0);
             return null;
         }    
     }
