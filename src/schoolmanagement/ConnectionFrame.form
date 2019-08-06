@@ -74,7 +74,7 @@
                           <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace pref="21" max="32767" attributes="0"/>
+                  <EmptySpace pref="50" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -161,7 +161,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel5">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Note:* Leave it to defaults unless you need to change it."/>
+            <Property name="text" type="java.lang.String" value="Note:* Leave it to defaults if you can login."/>
           </Properties>
         </Component>
       </SubComponents>

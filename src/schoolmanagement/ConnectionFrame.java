@@ -22,6 +22,7 @@ public class ConnectionFrame extends javax.swing.JFrame {
     
     
     public ConnectionFrame() {
+        super("Just to give you more control");
         initComponents();
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
         this.setLocation(dim.width/2-this.getSize().width/2, dim.height/2-this.getSize().height/2);
@@ -77,7 +78,7 @@ public class ConnectionFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel5.setText("Note:* Leave it to defaults unless you need to change it.");
+        jLabel5.setText("Note:* Leave it to defaults if you can login.");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -105,7 +106,7 @@ public class ConnectionFrame extends javax.swing.JFrame {
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(jLabel5)))
-                .addContainerGap(21, Short.MAX_VALUE))
+                .addContainerGap(50, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
