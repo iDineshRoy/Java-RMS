@@ -78,7 +78,7 @@ public class ConnectionFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel5.setText("Note:* Leave it to defaults if you can login.");
+        jLabel5.setText("Note:* Leave it to defaults if you can't login.");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

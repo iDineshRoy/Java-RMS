@@ -161,7 +161,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel5">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Note:* Leave it to defaults if you can login."/>
+            <Property name="text" type="java.lang.String" value="Note:* Leave it to defaults if you can&apos;t login."/>
           </Properties>
         </Component>
       </SubComponents>
